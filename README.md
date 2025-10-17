@@ -3,13 +3,35 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudufcb1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dudufcb1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudufcb1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/84204579?v=4"  />
+
+###
+
+<!-- About Me Section -->
+<div align="left">
+  <h3>🚀 About Me</h3>
+  <blockquote>
+    <p>
+      <b>Hi, I’m Luis Eduardo Gonzalez!</b><br>
+      I'm a <span style="color:#ff79c6;"><b>Fullstack Developer</b></span> from <span style="color:#50fa7b;">México</span> with a passion for building <span style="color:#8be9fd;">ambitious projects</span> at the crossroads of <b>AI, automation, and web technologies</b>.
+    </p>
+    <ul>
+      <li>💡 <b>Always learning</b>—curiosity drives me, especially in AI and automation.</li>
+      <li>🛠️ <b>Favorite stack:</b> React, Node.js, Go, C#, Docker, AWS, and more.</li>
+      <li>🌐 <b>Community builder:</b> I love open source, mentoring, and collaborating on impactful projects.</li>
+      <li>🚴 <b>Off-screen:</b> Cycling, music, and mixing up code with creativity.</li>
+    </ul>
+    <p>
+      <i>Currently working on two exciting projects leveraging AI to transform productivity and digital experiences.</i>
+    </p>
+  </blockquote>
+</div>
 
 ###
 
@@ -104,8 +126,6 @@
 
 <br clear="both">
 
-![github-user-contribution](https://github.com/user-attachments/assets/3fe05b30-5fee-4d34-a945-3d5101596579)###
-
-<p align="left">About Me<br><br>Hi! I’m Luis Eduardo Gonzalez, a passionate developer exploring the intersection of AI, automation, and web technologies. Currently, I’m working on two exciting projects:<br><br>Agentic Platform – A system of intelligent agents designed to assist users across areas like learning, therapy, diet planning, and exercise routines. These agents adapt based on user feedback, learning to align better with individual needs. The project uses TypeScript, sequential thinking, and embeddings, with a Laravel backend for persistence and a TS + Express server handling orchestration, services, and agent coordination.<br><br>Web Scraper & Optimization Tool – A tool that connects with an agent orchestration system to identify vulnerabilities, SEO improvements, and usability enhancements on websites. It even helps reach out to clients to improve their online presence.<br><br>I’m deeply interested in building scalable projects that serve many people, and I’m continuously learning about agents, vectors, embeddings, sequential reasoning, CI/CD, and cloud technologies like AWS.<br><br>Fun fact: When I first returned to studying, I thought I could become a full-stack developer in 6 months… it took a couple of years to build my first basic full-stack project! Also, yes, you can totally ask me about cats. 🐱<br><br>I love connecting with people who are passionate about creating impactful tech and learning along the way.</p>
+![github-user-contribution](https://github.com/user-attachments/assets/3fe05b30-5fee-4d34-a945-3d5101596579)
 
 ###
