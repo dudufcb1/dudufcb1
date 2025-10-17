@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Eduardo and I'm a fullstack developer from México</h2>
+<h2 align="left">Luis Eduardo Gonzalez | Fullstack Developer</h2>
+
+<p align="left">
+  <b>Developer from México specializing in AI agents, automation, and web technologies.</b><br>
+  Currently building intelligent systems that serve real users at scale.<br>
+  <b>Open for freelancing, collaborations, and technical challenges.</b>
+</p>
 
 ###
 
@@ -9,19 +15,23 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/84204579?v=4"  />
+## Current Projects
+
+**Agentic Platform**
+Intelligent agent system providing personalized assistance across learning, therapy, diet planning, and exercise. Agents adapt through user feedback using sequential thinking and embeddings.
+- Frontend/Logic: TypeScript with embeddings and sequential reasoning
+- Backend: Laravel for data persistence
+- Orchestration: TypeScript + Express server handling agent coordination
+
+**Codebase Index CLI**
+Advanced semantic search tool for codebases using vector embeddings and AI-powered context retrieval.
+
+**Web Scraper & Optimization Tool**
+Automated web analysis integrated with agent orchestration to identify security vulnerabilities, SEO opportunities, and usability improvements with automated client outreach.
 
 ###
 
-<!-- New brief and appealing introduction -->
-<p align="left">
-  <b>🚀 Welcome to my GitHub profile!</b><br>
-  I am a <b>Fullstack Developer</b> obsessed with technology, creativity, and making ideas come to life.<br>
-  <i>I am currently open for <b>freelancing</b> — ready to take on any project, challenge, or collaboration.<br>
-  If you need someone who is passionate, versatile, and not afraid of bold ideas, let's talk!</i>
-</p>
-
-###
+## Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -101,41 +111,54 @@
 
 ###
 
+## Connect
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/channel/UCSB4eLPXt8pVIV8VzQZ9Gsw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/dudufcb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  <a href="https://t.me/hardcodeddev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram" />
+  </a>
+  <a href="https://twitter.com/hardcodeddev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
+  </a>
+  <a href="mailto:legonzalezdev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  <a href="https://discord.com/users/duducoc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord" />
+  </a>
 </div>
+
+**Websites:** [devactivo.com](https://devactivo.com) | [especialistaenwp.com](https://especialistaenwp.com)
 
 ###
 
 <br clear="both">
 
+## Activity
+
 ![github-user-contribution](https://github.com/user-attachments/assets/3fe05b30-5fee-4d34-a945-3d5101596579)
 
 ###
 
-<!-- About Me section styled with bold, italics, etc. -->
-<p align="left">
-  <b>About Me</b>
-  <br><br>
-  <b>Hi! I’m Luis Eduardo Gonzalez</b>, <i>a passionate developer exploring the intersection of <b>AI, automation, and web technologies</b></i>.<br><br>
-  <b>Currently, I’m working on two exciting projects:</b><br><br>
-  <b>• Agentic Platform</b> – <i>A system of intelligent agents designed to assist users across areas like learning, therapy, diet planning, and exercise routines. These agents adapt based on user feedback, learning to align better with individual needs. The project uses <b>TypeScript</b>, sequential thinking, and embeddings, with a <b>Laravel backend</b> for persistence and a <b>TS + Express server</b> handling orchestration, services, and agent coordination.</i>
-  <br><br>
-  <b>• Web Scraper & Optimization Tool</b> – <i>A tool that connects with an agent orchestration system to identify vulnerabilities, SEO improvements, and usability enhancements on websites. It even helps reach out to clients to improve their online presence.</i>
-  <br><br>
-  <b>Interests:</b><br>
-  I’m deeply interested in building <b>scalable projects</b> that serve many people, and I’m continuously learning about agents, vectors, embeddings, sequential reasoning, CI/CD, and cloud technologies like <b>AWS</b>.
-  <br><br>
-  <b>Fun fact:</b> <i>When I first returned to studying, I thought I could become a full-stack developer in 6 months… it took a couple of years to build my first basic full-stack project! Also, yes, you can totally ask me about cats. 🐱</i>
-  <br><br>
-  <b>I love connecting with people who are passionate about creating impactful tech and learning along the way.</b>
-  <br><br>
-  <b>🌎 Available for freelance projects, collaborations, and any kind of challenge! Don’t hesitate to contact me! 🚀</b>
-</p>
+## About
+
+Passionate developer exploring the intersection of AI, automation, and web technologies. Currently focused on building intelligent agent systems, semantic search tools, and scalable web applications.
+
+**Areas of Focus:**
+- AI agents, vectors, and embeddings
+- Sequential reasoning systems
+- Semantic search and code analysis
+- Cloud infrastructure (AWS, Azure, DigitalOcean)
+- Full-stack web development (JavaScript, TypeScript, PHP, Python, Go)
+
+**Building for impact:** Creating tools and systems that serve real users at scale.
+
+**Currently available for freelance projects and technical collaborations.**
 
 ###
