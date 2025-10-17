@@ -13,11 +13,12 @@
 
 ###
 
-<!-- Nueva introducción breve y llamativa -->
+<!-- New brief and appealing introduction -->
 <p align="left">
-  <b>🚀 Bienvenido a mi perfil de GitHub.</b> <br>
-  Soy un desarrollador <b>Fullstack</b> apasionado por la tecnología, la creatividad y los retos. <br>
-  <i>Actualmente ofrezco servicios de <b>freelancing</b> — ¡Estoy abierto a cualquier proyecto interesante y dispuesto a llevar tus ideas al siguiente nivel!</i>
+  <b>🚀 Welcome to my GitHub profile!</b><br>
+  I am a <b>Fullstack Developer</b> obsessed with technology, creativity, and making ideas come to life.<br>
+  <i>I am currently open for <b>freelancing</b> — ready to take on any project, challenge, or collaboration.<br>
+  If you need someone who is passionate, versatile, and not afraid of bold ideas, let's talk!</i>
 </p>
 
 ###
@@ -117,7 +118,7 @@
 
 ###
 
-<!-- Aquí comienza el About Me con estilos -->
+<!-- About Me section styled with bold, italics, etc. -->
 <p align="left">
   <b>About Me</b>
   <br><br>
@@ -134,7 +135,7 @@
   <br><br>
   <b>I love connecting with people who are passionate about creating impactful tech and learning along the way.</b>
   <br><br>
-  <b>🌎 ¡Disponible para proyectos freelance, colaboraciones y retos de cualquier tipo! ¡No dudes en contactarme! 🚀</b>
+  <b>🌎 Available for freelance projects, collaborations, and any kind of challenge! Don’t hesitate to contact me! 🚀</b>
 </p>
 
 ###
