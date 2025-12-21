@@ -1,8 +1,8 @@
 <h2 align="left">Luis Eduardo Gonzalez | Fullstack Developer</h2>
 
 <p align="left">
-  <b>Developer from México specializing in AI agents, automation, and web technologies.</b><br>
-  Currently building intelligent systems that serve real users at scale.<br>
+  <b>Developer from Mexico specializing in AI agents, automation, and web technologies.</b><br>
+  Currently at <a href="https://convergingworks.com">Converging Works</a> as Fullstack Developer, building n8n automations and AI agents.<br>
   <b>Open for freelancing, collaborations, and technical challenges.</b>
 </p>
 
@@ -152,6 +152,7 @@ Passionate developer exploring the intersection of AI, automation, and web techn
 
 **Areas of Focus:**
 - AI agents, vectors, and embeddings
+- n8n workflow automations
 - Sequential reasoning systems
 - Semantic search and code analysis
 - Cloud infrastructure (AWS, Azure, DigitalOcean)
