@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>Developer from Mexico specializing in AI agents, automation, and web technologies.</b><br>
-  Currently at <a href="https://convergingworks.com">Converging Works</a> as Fullstack Developer, building n8n automations and AI agents.<br>
+  Currently at <a href="https://convergingworks.com">Converging Works</a> as Fullstack Developer, building audit, SEO, financial, and CRM applications with n8n automations and AI agents.<br>
   <b>Open for freelancing, collaborations, and technical challenges.</b>
 </p>
 
